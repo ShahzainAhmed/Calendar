@@ -1,6 +1,6 @@
 # Importing the Calendar module of Python.
-import calendar
-# ask of month and year
+import calendar 
+# Asking for month and year.
 yy = int(input("Enter year: "))
 mm = int(input("Enter month: "))
 # display the calendar
